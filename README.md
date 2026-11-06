@@ -6,7 +6,9 @@
 
 ## 在线访问
 
-GitHub Pages：`https://<你的用户名>.github.io/ai-daily/`
+GitHub Pages：**https://jack480.github.io/ai-daily/**
+
+仓库：https://github.com/jack480/ai-daily
 
 ## 每日更新资讯
 
